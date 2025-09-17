@@ -41,9 +41,13 @@ Matplotlib for visualization
 # 📑 Analysis Performed
 
 ✔️ Cleaned missing values in temperature and humidity
+
 ✔️ Converted date column to datetime and extracted Year/Month
+
 ✔️ Found hottest and coldest days
+
 ✔️ Calculated average temperature and humidity using NumPy
+
 ✔️ Exported cleaned dataset to cleaned_weather.csv
 
 # 📊 Visualizations
@@ -85,4 +89,5 @@ jupyter notebook Weather_Data_Analyzer.ipynb
 
 
 **✨ Author:** Muhammad Mohsin (BS Software Engineering Student, Sir Syed CASE Institute of Technology, Islamabad)
+
 **🔗 GitHub:** mohsin-ds
